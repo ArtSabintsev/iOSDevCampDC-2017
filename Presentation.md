@@ -257,7 +257,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 
 # Contributing to Established Projects (1/2)
 
-![right 90  %](assets/help2.png)
+![right 90%](assets/help2.png)
 
 - Issues posted by the maintainer
 
@@ -272,6 +272,9 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
  - `help`
  - `feature`
  - `bug`
+
+- Help me implement a rule in SwiftLint!
+ - [SwiftLint#1315](https://github.com/realm/SwiftLint/pull/1315)
 
 ---
 
@@ -383,9 +386,9 @@ PRs require the consumer to (at the very least):
 
 ---
 
-![inline](assets/xkcd.png)
+![inline 100%](assets/xkcd.png)
 
-^ Coming from XKCD
+^ From XKCD
 
 ---
 
