@@ -336,7 +336,7 @@ PRs require the consumer to (at the very least):
 
 # The 5 Day Rule
 
-## If a consumer open an Issue/PR, but does not follow up to your questions/comments within **5 days**, close the Issue/PR and move on.
+## If a consumer opens an Issue/PR, but does not follow up to your questions/comments within **5 work days**, close the Issue/PR and move on.
 
 ---
 
