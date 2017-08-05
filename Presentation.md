@@ -179,7 +179,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 
 ---
 
-> Learn and experiment with language and platform API's that you normally wouldn't in your day job.
+> Learn and experiment with language and platform APIs that you normally wouldn't in your day job.
 -- Lesson #4
 
 ---
